@@ -1,0 +1,2 @@
+# WindowCoreProject
+windows descriptor
